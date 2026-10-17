@@ -1,0 +1,23 @@
+{
+  "name": "軍儀盤",
+  "short_name": "軍儀盤",
+  "description": "駒の移動候補表示と対局保存ができる軍儀盤",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef0f2",
+  "theme_color": "#18212b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
